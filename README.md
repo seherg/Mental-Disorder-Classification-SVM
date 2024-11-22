@@ -1,10 +1,12 @@
 # 🧠 Mental Disorder Classification with SVM
 Mental Disorder Classification projesi, Destek Vektör Makineleri (SVM) kullanarak zihinsel sağlık durumlarını sınıflandırmayı amaçlayan bir projedir. Bu proje, Kaggle'daki mental disorder classification veri seti ile oluşturulmuştur.
+![image](https://github.com/user-attachments/assets/cbd7225c-cc20-4127-8e4c-3792c7abb5e6)
+
 
 ## 📥 Veri Seti
 Veri seti, mental disorder classification alanındaki çeşitli özellikleri içeren verilere dayalıdır ve sınıflandırma yapmak için kullanılmaktadır. Proje, bu veri setiyle eğitim almış bir modelin sonuçlarını analiz etmeyi amaçlar. Veri setine şu bağlantıdan erişebilirsiniz:
 
-👉 Mental Disorder Classification Dataset - Kaggle
+👉 Mental Disorder Classification Dataset - Kaggle ( https://www.kaggle.com/datasets/cid007/mental-disorder-classification )
 
 ## 🛠️ Teknolojiler
 Python
